@@ -1,0 +1,9 @@
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\bin\Debug\netstandard2.0\WordpressAPI.deps.json
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\bin\Debug\netstandard2.0\WordpressAPI.dll
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\obj\Debug\netstandard2.0\WordpressAPI.csprojAssemblyReference.cache
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\obj\Debug\netstandard2.0\WordpressAPI.csproj.CoreCompileInputs.cache
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\obj\Debug\netstandard2.0\WordpressAPI.AssemblyInfoInputs.cache
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\obj\Debug\netstandard2.0\WordpressAPI.AssemblyInfo.cs
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\bin\Debug\netstandard2.0\WordpressAPI.pdb
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\obj\Debug\netstandard2.0\WordpressAPI.dll
+C:\Users\mvallejo\source\repos\PortalHackerScraper\WordpressAPI\obj\Debug\netstandard2.0\WordpressAPI.pdb

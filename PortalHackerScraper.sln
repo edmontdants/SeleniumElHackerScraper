@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalHackerScraperConsole", "PortalHackerScraperConsole\PortalHackerScraperConsole.csproj", "{A279819F-AB43-4861-B45E-7FB51C7E1628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordpressAPI", "WordpressAPI\WordpressAPI.csproj", "{FA6A5679-AC95-4ED0-80B0-133AB695BFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A279819F-AB43-4861-B45E-7FB51C7E1628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A279819F-AB43-4861-B45E-7FB51C7E1628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A279819F-AB43-4861-B45E-7FB51C7E1628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A279819F-AB43-4861-B45E-7FB51C7E1628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6A5679-AC95-4ED0-80B0-133AB695BFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6A5679-AC95-4ED0-80B0-133AB695BFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6A5679-AC95-4ED0-80B0-133AB695BFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6A5679-AC95-4ED0-80B0-133AB695BFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF714672-7393-46BB-9458-5AC1761804A0}
+	EndGlobalSection
+EndGlobal

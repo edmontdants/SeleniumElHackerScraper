@@ -1,0 +1,14 @@
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\PortalHackerScraperConsole.exe.config
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\PortalHackerScraperConsole.exe
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\PortalHackerScraperConsole.pdb
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\WebDriver.dll
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\WebDriver.xml
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\obj\Debug\PortalHackerScraperConsole.csprojAssemblyReference.cache
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\obj\Debug\PortalHackerScraperConsole.csproj.CoreCompileInputs.cache
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\obj\Debug\PortalHackerScraperConsole.csproj.CopyComplete
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\obj\Debug\PortalHackerScraperConsole.exe
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\obj\Debug\PortalHackerScraperConsole.pdb
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\WordpressAPI.dll
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\WordpressAPI.pdb
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\RestSharp.dll
+C:\Users\mvallejo\source\repos\PortalHackerScraper\PortalHackerScraperConsole\bin\Debug\RestSharp.xml
